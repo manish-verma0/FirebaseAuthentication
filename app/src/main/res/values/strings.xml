@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseAuthentication</string>
+    <string name="sign_in"><u>Already have account\nLog In</u></string>
+    <string name="sign_up"><u>Don\'t have an account\nCreate Account</u></string>
+</resources>
